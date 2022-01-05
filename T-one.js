@@ -123,7 +123,7 @@
 //         // console.log([i],'is even')
 //     }
 //     else{
-//         // console.log([i],'is odd')
+        console.log([i],'is odd')
 //          document.write([i],' is odd'+'<br> ')
 //     }
 // }
